@@ -1,6 +1,6 @@
 # ronda
 
-app ronda e controle de acesso
+app ronda e controle de acesso integrado ao Ronda PHP
 
 ## Getting Started
 
